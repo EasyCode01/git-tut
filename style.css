@@ -17,9 +17,17 @@ a {
 }
 
 section {
-  height: 100vh;
+  height: 10vh;
 }
 
 form {
   display: flex;
+}
+
+.login-btn {
+  padding: 10px 20px;
+  border: none;
+  background-color: royalblue;
+  color: #fff;
+  cursor: pointer;
 }
